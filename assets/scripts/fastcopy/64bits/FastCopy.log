@@ -1,0 +1,4890 @@
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/09 20:47:41
+<Source>  "C:\Photoshop CS6"
+<DestDir> C:\testes
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\matmc\OneDrive\Área de Trabalho\code-injection\assets\scripts\fastcopy\64bits\Log\20220209-204741-0.log
+-------------------------------------------------
+
+TotalRead  = 504 MiB
+TotalWrite = 504 MiB
+TotalFiles = 1,237 (0)
+TotalTime  = 6.2 sec
+TransRate  = 85.7 MB/s
+FileRate   = 200.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/09 20:47:47
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/09 20:48:03
+<Source>  C:\OneDriveTemp; "C:\Photoshop CS6"
+<DestDir> C:\testes
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\matmc\OneDrive\Área de Trabalho\code-injection\assets\scripts\fastcopy\64bits\Log\20220209-204803-0.log
+-------------------------------------------------
+
+TotalRead  = 504 MiB
+TotalWrite = 504 MiB
+TotalFiles = 1,237 (537)
+TotalTime  = 5.9 sec
+TransRate  = 90.3 MB/s
+FileRate   = 211.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/09 20:48:09
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/09 23:58:56
+<Source>  C:\bbbbbbbbbb\
+<DestDir> C:\aaaaaaaaaa\adsasd\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220209-235856-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/09 23:58:56
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 08:18:29
+<Source>  C:\bbbmarcus\
+<DestDir> C:\aaaaaaaaaa\bk lucas silva Feb-10-2022\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-081829-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 08:18:29
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 08:40:22
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\bk laticinios Feb-10-2022 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-084022-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 08:40:22
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 08:41:40
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\zzzz 02-10-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-084140-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 08:41:40
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:02:01
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\BK ANA KELLY 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-100201-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:02:01
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:08:41
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\teste2 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-100841-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:08:41
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:09:32
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\2aasd 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-100932-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:09:32
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:10:29
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\z 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-101029-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:10:29
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:11:29
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\2a2 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-101129-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:11:29
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:12:36
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\a1 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-101236-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:12:36
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:13:57
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\qqq 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-101357-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:13:57
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:20:21
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\1aaa 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-102021-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:20:21
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:26:00
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\bbbmarcus\teste rrrrr 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-102600-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,751 (824)
+TotalTime  = 52.5 sec
+TransRate  = 86.3 MB/s
+FileRate   = 33.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:26:53
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:29:59
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\xd 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-102959-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:29:59
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:56:42
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\agr 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-105642-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:56:42
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 10:57:38
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\a11 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-105738-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 10:57:38
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:03:01
+<Source>  C:\bbbbbbbbbb\
+<DestDir> C:\a\a 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-110301-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:03:01
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:11:45
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\zzzzzzz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111145-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:11:45
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:12:14
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\zzzzzzz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111214-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (6)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:12:14
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:15:15
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\a 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111515-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 17.7 MB/s
+FileRate   = 225.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:15:15
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:17:55
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\az 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111755-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 17.7 MB/s
+FileRate   = 225.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:17:55
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:19:29
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\2 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111929-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 34.2 MB/s
+FileRate   = 437.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:19:29
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:19:52
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\2 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-111952-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (0)
+TotalTime  = 0.0 sec
+TransRate  = 547.4 MB/s
+FileRate   = 7,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:19:52
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:21:26
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\zz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-112126-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 17.7 MB/s
+FileRate   = 225.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:21:26
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:21:55
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\zz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-112155-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (0)
+TotalTime  = 0.0 sec
+TransRate  = 36.5 MB/s
+FileRate   = 466.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:21:55
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:35:53
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\qqq 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-113553-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:35:53
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:36:46
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\a 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-113646-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (0)
+TotalTime  = 0.0 sec
+TransRate  = 36.5 MB/s
+FileRate   = 466.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:36:46
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 11:37:07
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\asd 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-113707-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 11:37:07
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 12:03:16
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\a 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-120316-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (6)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 12:03:16
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 14:14:36
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\zzz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-141436-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 14:14:36
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 14:15:04
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\zzz 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-141504-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 14:15:04
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 14:51:03
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\aad 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-145103-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 2 (7)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 2,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 14:51:03
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 14:51:16
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\bbbmarcus\aadq 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-145116-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,751 (824)
+TotalTime  = 47.9 sec
+TransRate  = 94.6 MB/s
+FileRate   = 36.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 14:52:04
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:06:39
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\bbbmarcus\teste6 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-150639-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,751 (824)
+TotalTime  = 43.8 sec
+TransRate  = 103.4 MB/s
+FileRate   = 39.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 15:07:23
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:10:31
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\aaaaaaaaaa\xd 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-151031-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 496 MiB
+TotalWrite = 475 MiB
+TotalFiles = 1,172 (465)
+TotalTime  = 7.8 sec
+TransRate  = 64.2 MB/s
+FileRate   = 150.9 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0) at 2022/02/10 15:10:40
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:23:31
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\testepopinho 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-152331-0.log
+-------------------------------------------------
+
+TotalRead  = 467 MiB
+TotalWrite = 467 MiB
+TotalFiles = 1,179 (473)
+TotalTime  = 7.4 sec
+TransRate  = 66.1 MB/s
+FileRate   = 158.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 15:23:39
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:24:23
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\testepopinho 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-152423-0.log
+-------------------------------------------------
+
+TotalRead  = 467 MiB
+TotalWrite = 467 MiB
+TotalFiles = 1,179 (0)
+TotalTime  = 6.5 sec
+TransRate  = 75.1 MB/s
+FileRate   = 180.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 15:24:30
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:25:46
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\testepopinho 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-152546-0.log
+-------------------------------------------------
+
+TotalRead  = 467 MiB
+TotalWrite = 467 MiB
+TotalFiles = 1,179 (0)
+TotalTime  = 6.7 sec
+TransRate  = 73.7 MB/s
+FileRate   = 177.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 15:25:52
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 15:39:20
+<Source>  C:\aaaaaaaaaa\; C:\bbbbbbbbbb\
+<DestDir> C:\salvei aqui\BK LATICINIOS 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-153920-0.log
+-------------------------------------------------
+
+TotalRead  = 468 MiB
+TotalWrite = 468 MiB
+TotalFiles = 1,192 (481)
+TotalTime  = 15.7 sec
+TransRate  = 31.2 MB/s
+FileRate   = 75.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 15:39:36
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 17:44:37
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\imagens\logo.bmp"
+<DestDir> C:\windows\system32
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-174437-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\imagens\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/02/10 17:44:37
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/10 17:47:13
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\windows\system32
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-174713-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\windows\system32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/10 17:47:13
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/10 17:48:12
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\windows\system32
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-174812-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 17:48:12
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/10 17:50:08
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\windows\system32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-175008-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 17:50:08
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/10 17:51:40
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-175140-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.51 MB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 17:51:40
+
+=================================================
+FastCopy(ver4.0.5) start at 2022/02/10 17:52:20
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-175220-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/10 17:52:20
+
+=================================================
+FastCopy(ver4.0.5 (Admin)) start at 2022/02/10 17:52:44
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-175244-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 17:52:44
+
+=================================================
+fcp(ver4.0.5) start at 2022/02/10 17:57:49
+<Source>  C:\a\
+<DestDir> C:\Photoshop CS6 2017\wae 10-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220210-175749-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.1 sec
+TransRate  = 8.69 MB/s
+FileRate   = 111.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/10 17:57:49
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/11 08:27:27
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\a1b3 11-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-082727-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.1 sec
+TransRate  = 8.69 MB/s
+FileRate   = 111.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 08:27:27
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 08:52:06
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-085206-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 08:52:06
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/11 08:54:10
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\3 11-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-085410-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 34.2 MB/s
+FileRate   = 437.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 08:54:10
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/11 08:54:49
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\r 11-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-085449-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 17.7 MB/s
+FileRate   = 225.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 08:54:49
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/11 08:58:53
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-085853-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 08:58:53
+
+=================================================
+FastCopy(ver4.0.5 (Admin) (NoUI)) start at 2022/02/11 09:03:47
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-090347-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:03:47
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:12:58
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091258-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 09:12:58
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:16:34
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091634-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.51 MB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:16:34
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:17:09
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091709-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:17:09
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:17:09
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091709-1.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:17:09
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:17:09
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091709-2.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.51 MB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:17:09
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 09:17:10
+<Source>  "C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\images\logo.bmp"
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\InstaladorProgramas-master v2\assets\scripts\fastcopy\64bits\Log\20220211-091710-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/11 09:17:10
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 15:53:19
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220211-155319-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 15:53:19
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 16:14:38
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220211-161438-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 16:14:38
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 16:28:03
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220211-162803-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 16:28:03
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/11 16:30:30
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220211-163030-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/02/11 16:30:30
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:12:31
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\r 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-081231-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.1 sec
+TransRate  = 7.02 MB/s
+FileRate   = 89.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:12:31
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:22:27
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\22 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082227-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.1 sec
+TransRate  = 8.83 MB/s
+FileRate   = 112.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:22:27
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:24:02
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\asdasda 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082402-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 34.2 MB/s
+FileRate   = 437.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:24:02
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:24:51
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\qqq 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082451-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (6)
+TotalTime  = 0.0 sec
+TransRate  = 34.2 MB/s
+FileRate   = 437.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:24:51
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:25:11
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\qqq 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082511-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (0)
+TotalTime  = 0.0 sec
+TransRate  = 34.2 MB/s
+FileRate   = 437.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:25:11
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:25:17
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\qqq 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082517-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 7 (0)
+TotalTime  = 0.0 sec
+TransRate  = 36.5 MB/s
+FileRate   = 466.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:25:17
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:25:24
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\bbbmarcus\qqq 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082524-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (1)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:25:24
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:25:33
+<Source>  C:\bbbmarcus\
+<DestDir> C:\a\qqq 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082533-0.log
+-------------------------------------------------
+
+TotalRead  = 3.2 MiB
+TotalWrite = 3.2 MiB
+TotalFiles = 61 (43)
+TotalTime  = 0.2 sec
+TransRate  = 14.5 MB/s
+FileRate   = 259.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:25:33
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:25:51
+<Source>  C:\a\
+<DestDir> C:\bbbmarcus\testeeeeeeee 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-082551-0.log
+-------------------------------------------------
+
+TotalRead  = 3.8 MiB
+TotalWrite = 3.8 MiB
+TotalFiles = 68 (49)
+TotalTime  = 0.2 sec
+TransRate  = 25.3 MB/s
+FileRate   = 435.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 08:25:51
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 08:58:56
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\bbbmarcus\zzzz 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-085856-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,758 (830)
+TotalTime  = 01:10
+TransRate  = 64.2 MB/s
+FileRate   = 24.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 09:00:07
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 10:30:32
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-103032-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 10:30:32
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 10:31:20
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-103120-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.51 MB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 10:31:20
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 10:39:51
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-103951-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 10:39:51
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:43:54
+<Source>  C:\a\
+<DestDir> C:\aaaaaaaaaa\superteste 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-164354-0.log
+-------------------------------------------------
+
+TotalRead  = 3.8 MiB
+TotalWrite = 3.8 MiB
+TotalFiles = 68 (49)
+TotalTime  = 0.4 sec
+TransRate  = 11.0 MB/s
+FileRate   = 189.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:43:55
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:44:10
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaaaaaaaaa\superteste 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-164410-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 15.9 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:44:10
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:52:39
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\9999999 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165239-0.log
+-------------------------------------------------
+
+TotalRead  = 3.8 MiB
+TotalWrite = 3.8 MiB
+TotalFiles = 68 (49)
+TotalTime  = 0.1 sec
+TransRate  = 31.6 MB/s
+FileRate   = 544.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:52:39
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:52:51
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\bbbbbbbbbb\9999999 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165251-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 30.8 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:52:51
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:54:07
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\a\adasdasd 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165407-0.log
+-------------------------------------------------
+
+TotalRead  = 4.3 MiB
+TotalWrite = 4.3 MiB
+TotalFiles = 76 (53)
+TotalTime  = 0.1 sec
+TransRate  = 35.7 MB/s
+FileRate   = 608.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:54:07
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:54:18
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\a\adasdasd 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165418-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 493.5 MB/s
+FileRate   = 3,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:54:18
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:54:44
+<Source>  C:\aaaaaaaaaa\
+<DestDir> C:\a\adasdasd 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165444-0.log
+-------------------------------------------------
+
+TotalRead  = 4.3 MiB
+TotalWrite = 4.3 MiB
+TotalFiles = 76 (0)
+TotalTime  = 0.1 sec
+TransRate  = 31.7 MB/s
+FileRate   = 539.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:54:44
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:54:55
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\a\adasdasd 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165455-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 30.8 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:54:55
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:56:43
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\1a 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165643-0.log
+-------------------------------------------------
+
+TotalRead  = 8.5 MiB
+TotalWrite = 8.5 MiB
+TotalFiles = 152 (104)
+TotalTime  = 0.3 sec
+TransRate  = 30.1 MB/s
+FileRate   = 511.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:56:43
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:56:55
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\bbbbbbbbbb\1a 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165655-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 15.9 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:56:55
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:58:15
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\aaaaaaaaaa\a1 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165815-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,758 (830)
+TotalTime  = 50.3 sec
+TransRate  = 90.1 MB/s
+FileRate   = 34.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:59:05
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 16:59:18
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaaaaaaaaa\a1 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-165918-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 15.9 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 16:59:18
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:00:59
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\1 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170059-0.log
+-------------------------------------------------
+
+TotalRead  = 8.5 MiB
+TotalWrite = 8.5 MiB
+TotalFiles = 152 (104)
+TotalTime  = 0.3 sec
+TransRate  = 30.1 MB/s
+FileRate   = 511.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:01:00
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:01:12
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\bbbbbbbbbb\1 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170112-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 10.5 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:01:12
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:01:44
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\a 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170144-0.log
+-------------------------------------------------
+
+TotalRead  = 8.5 MiB
+TotalWrite = 8.5 MiB
+TotalFiles = 152 (104)
+TotalTime  = 0.5 sec
+TransRate  = 17.3 MB/s
+FileRate   = 295.1 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:01:44
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:03:24
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\a 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170324-0.log
+-------------------------------------------------
+
+TotalRead  = 8.5 MiB
+TotalWrite = 8.5 MiB
+TotalFiles = 152 (0)
+TotalTime  = 0.3 sec
+TransRate  = 31.8 MB/s
+FileRate   = 540.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:03:24
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:04:09
+<Source>  C:\a\
+<DestDir> C:\bbbbbbbbbb\1 14-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170409-0.log
+-------------------------------------------------
+
+TotalRead  = 8.5 MiB
+TotalWrite = 8.5 MiB
+TotalFiles = 152 (0)
+TotalTime  = 0.4 sec
+TransRate  = 22.0 MB/s
+FileRate   = 374.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:04:10
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/14 17:04:22
+<Source>  "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\debug\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\bbbbbbbbbb\1 14-02-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220214-170422-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 15.9 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/14 17:04:22
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/17 15:39:35
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220217-153935-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/17 15:39:35
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/17 16:12:34
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220217-161234-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/17 16:12:34
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/17 18:02:03
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220217-180203-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/17 18:02:03
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/19 11:08:20
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\a\u 19-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220219-110820-0.log
+-------------------------------------------------
+
+TotalRead  = 4,321 MiB
+TotalWrite = 4,321 MiB
+TotalFiles = 1,758 (830)
+TotalTime  = 01:06
+TransRate  = 67.8 MB/s
+FileRate   = 26.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/19 11:09:26
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/24 10:39:34
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220224-103934-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/24 10:39:34
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/24 10:41:46
+<Source>  C:\Users\debug\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220224-104146-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/02/24 10:41:46
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/02/25 11:12:59
+<Source>  "C:\Photoshop CS6 2017\"
+<DestDir> C:\ateste\a 25-02-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220225-111259-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 3,000 MiB
+TotalWrite = 2,889 MiB
+TotalFiles = 1,409 (614)
+TotalTime  = 37.3 sec
+TransRate  = 81.3 MB/s
+FileRate   = 37.8 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0) at 2022/02/25 11:13:37
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/03/02 10:09:06
+<Source>  C:\Intel\
+<DestDir> C:\ateste\asd 02-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\debug\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220302-100906-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.70 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/02 10:09:06
+
+=================================================
+FastCopy(ver4.0.5 (NoUI)) start at 2022/03/04 14:31:47
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220304-143147-0.log
+-------------------------------------------------
+CreateFile(Acesso negado.5) : C:\Windows\System32\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/03/04 14:31:47
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/08 08:57:25
+<Source>  C:\Intel\
+<DestDir> C:\PerfLogs\s 08-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220308-085725-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 56.2 MB/s
+FileRate   = 3,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/08 08:57:25
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/08 08:58:11
+<Source>  "C:\Program Files\"
+<DestDir> C:\Intel\sa 08-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220308-085811-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 472 MiB
+TotalWrite = 434 MiB
+TotalFiles = 7,855 (552)
+TotalTime  = 8.9 sec
+TransRate  = 51.3 MB/s
+FileRate   = 883.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/08 08:58:20
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 08:26:53
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-082653-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 08:26:53
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 08:28:58
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-082858-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.53 MB/s
+FileRate   = 21.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 08:28:58
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 14:39:14
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-143914-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 14:39:14
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 14:47:39
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-144739-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.51 MB/s
+FileRate   = 21.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 14:47:39
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 14:47:50
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-144750-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 14:47:50
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 14:48:18
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-144818-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 14:48:18
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 14:49:30
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-144930-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 14:49:30
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:05:52
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\22 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-150552-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.1 sec
+TransRate  = 55.5 MB/s
+FileRate   = 40.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:05:52
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:07:41
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\qq as 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-150741-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.1 sec
+TransRate  = 111.9 MB/s
+FileRate   = 80.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:07:41
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:09:34
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\sad 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-150934-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.1 sec
+TransRate  = 110.1 MB/s
+FileRate   = 79.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:09:35
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:13:51
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\uj 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-151351-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.0 sec
+TransRate  = 147.6 MB/s
+FileRate   = 106.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:13:51
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:15:34
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\zz 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-151534-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.0 sec
+TransRate  = 147.6 MB/s
+FileRate   = 106.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:15:35
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:18:17
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\zz1 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-151817-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.0 sec
+TransRate  = 147.6 MB/s
+FileRate   = 106.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:18:17
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:36:19
+<Source>  C:\Intel\
+<DestDir> C:\aaateste\1 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-153619-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 411 MiB
+TotalWrite = 345 MiB
+TotalFiles = 1,777 (158)
+TotalTime  = 7.0 sec
+TransRate  = 52.1 MB/s
+FileRate   = 255.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:36:27
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:37:45
+<Source>  C:\PerfLogs\
+<DestDir> C:\aaateste\11111 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-153745-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (6)
+TotalTime  = 0.0 sec
+TransRate  = 56.2 MB/s
+FileRate   = 3,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:37:45
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:38:08
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\11111 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-153808-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 53.2 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 15:38:08
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:39:16
+<Source>  C:\PerfLogs\
+<DestDir> C:\aaateste\a1 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-153916-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (6)
+TotalTime  = 0.0 sec
+TransRate  = 56.2 MB/s
+FileRate   = 3,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:39:16
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:39:54
+<Source>  C:\PerfLogs\
+<DestDir> C:\aaateste\qqqqqqqqq 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-153954-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (6)
+TotalTime  = 0.0 sec
+TransRate  = 3.75 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:39:54
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:40:05
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\qqqqqqqqq 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-154005-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 27.5 MB/s
+FileRate   = 64.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 15:40:05
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:53:03
+<Source>  C:\PerfLogs\
+<DestDir> C:\aaateste\9 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-155303-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (6)
+TotalTime  = 0.0 sec
+TransRate  = 3.51 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:53:03
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:53:15
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\9 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-155315-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 55.3 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 15:53:15
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:55:01
+<Source>  C:\PerfLogs\
+<DestDir> C:\aaateste\1111 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-155501-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 3 (6)
+TotalTime  = 0.0 sec
+TransRate  = 56.2 MB/s
+FileRate   = 3,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 15:55:01
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 15:55:12
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\1111 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-155512-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 59.0 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 15:55:12
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:00:05
+<Source>  C:\Intel\
+<DestDir> C:\aaateste\testee 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-160005-0.log
+-------------------------------------------------
+
+TotalRead  = 434 MiB
+TotalWrite = 434 MiB
+TotalFiles = 7,858 (555)
+TotalTime  = 8.9 sec
+TransRate  = 51.1 MB/s
+FileRate   = 880.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 16:00:14
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:00:25
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\testee 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-160025-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 59.0 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 16:00:25
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:01:47
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\qqq 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-160147-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.1 sec
+TransRate  = 111.9 MB/s
+FileRate   = 80.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 16:01:48
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:19:02
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-161902-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 24.2 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 16:19:02
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:19:16
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\asdasdasdasasd 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-161916-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.0 sec
+TransRate  = 150.8 MB/s
+FileRate   = 108.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 16:19:16
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:19:27
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\asdasdasdasasd 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-161927-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 55.3 MB/s
+FileRate   = 125.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 16:19:27
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:22:05
+<Source>  C:\MeusDrivers\
+<DestDir> C:\aaateste\111 09-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-162205-0.log
+-------------------------------------------------
+
+TotalRead  = 6.6 MiB
+TotalWrite = 6.6 MiB
+TotalFiles = 5 (14)
+TotalTime  = 0.1 sec
+TransRate  = 63.6 MB/s
+FileRate   = 45.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/09 16:22:05
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/09 16:22:07
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\111 09-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220309-162207-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o arquivo especificado.2) : C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+TotalRead  = 0.8 MiB
+TotalWrite = 0.8 MiB
+TotalFiles = 2 (0)
+TotalTime  = 0.0 sec
+TransRate  = 59.0 MB/s
+FileRate   = 133.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/09 16:22:07
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/12 11:41:39
+<Source>  C:\Users\Mateus\Videos\
+<DestDir> C:\aaateste\oi 12-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220312-114139-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.50 MB/s
+FileRate   = 1,000 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/12 11:41:39
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/12 11:42:15
+<Source>  C:\Users\Mateus\Pictures\
+<DestDir> C:\aaateste\qq 12-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220312-114215-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 4 (2)
+TotalTime  = 0.0 sec
+TransRate  = 31.9 MB/s
+FileRate   = 250.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/12 11:42:15
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/12 11:42:25
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aaateste\qq 12-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220312-114225-0.log
+-------------------------------------------------
+
+TotalRead  = 1.2 MiB
+TotalWrite = 1.2 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 39.2 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/12 11:42:25
+
+=================================================
+FastCopy(ver4.1.1 (Admin) (NoUI)) start at 2022/03/16 11:44:52
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-114452-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 1 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.51 MB/s
+FileRate   = 62.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 11:44:52
+
+=================================================
+FastCopy(ver4.1.1 (Admin) (NoUI)) start at 2022/03/16 16:08:48
+<Source>  C:\AiO-Files\translation\
+<DestDir> C:\aat\aa 16-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-160848-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 8 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.64 MB/s
+FileRate   = 173.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:08:48
+
+=================================================
+FastCopy(ver4.1.1 (Admin) (NoUI)) start at 2022/03/16 16:09:02
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\aa 16-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-160902-0.log
+-------------------------------------------------
+
+TotalRead  = 0.3 MiB
+TotalWrite = 0.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 5.84 MB/s
+FileRate   = 48.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:09:02
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/16 16:13:16
+<Source>  C:\Intel\
+<DestDir> C:\aat\z 16-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-161316-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.1 sec
+TransRate  = 0.33 MB/s
+FileRate   = 48.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:13:16
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/16 16:14:14
+<Source>  C:\Intel\
+<DestDir> C:\aat\zz 16-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-161414-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.44 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:14:14
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/16 16:14:25
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\zz 16-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-161425-0.log
+-------------------------------------------------
+
+TotalRead  = 0.3 MiB
+TotalWrite = 0.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 11.3 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:14:25
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/16 16:16:12
+<Source>  C:\Users\Mateus\Desktop\code-injection\Helpers\
+<DestDir> C:\aat\2 16-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-161612-0.log
+-------------------------------------------------
+
+TotalRead  = 0.1 MiB
+TotalWrite = 0.1 MiB
+TotalFiles = 31 (3)
+TotalTime  = 0.2 sec
+TransRate  = 0.41 MB/s
+FileRate   = 198.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:16:12
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/16 16:16:16
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\2 16-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220316-161616-0.log
+-------------------------------------------------
+
+TotalRead  = 0.3 MiB
+TotalWrite = 0.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 11.7 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/16 16:16:16
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:33:39
+<Source>  C:\Intel\
+<DestDir> C:\aat\teste3333 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113339-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.66 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:33:39
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:33:43
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\teste3333 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113343-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 4.47 MB/s
+FileRate   = 24.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:33:43
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:35:48
+<Source>  C:\Intel\
+<DestDir> C:\aat\qqqqq 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113548-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.28 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:35:48
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:35:52
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\qqqqq 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113552-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 6.01 MB/s
+FileRate   = 32.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:35:52
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:37:12
+<Source>  C:\Intel\
+<DestDir> C:\aat\xd 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113712-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.37 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:37:12
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:37:16
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\xd 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113716-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 7.16 MB/s
+FileRate   = 38.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:37:16
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:39:05
+<Source>  C:\Intel\
+<DestDir> C:\aat\23 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113905-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.28 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:39:05
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 11:39:10
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\23 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-113910-0.log
+-------------------------------------------------
+
+TotalRead  = 0.5 MiB
+TotalWrite = 0.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 7.07 MB/s
+FileRate   = 38.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 11:39:10
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:37:06
+<Source>  C:\Intel\
+<DestDir> C:\aat\xds 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143706-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.45 MB/s
+FileRate   = 65.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:37:06
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:37:09
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\xds 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143709-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 9.39 MB/s
+FileRate   = 47.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:37:09
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:38:25
+<Source>  C:\Intel\
+<DestDir> C:\aat\1q1 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143825-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.37 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:38:25
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:38:28
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\1q1 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143828-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:38:28
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:39:39
+<Source>  C:\Intel\
+<DestDir> C:\aat\1qqqqq 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143939-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.37 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:39:39
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:39:42
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\1qqqqq 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-143942-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:39:42
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:41:30
+<Source>  C:\AiO-Files\
+<DestDir> C:\aat\agr vai 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144130-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 471 MiB
+TotalWrite = 436 MiB
+TotalFiles = 1,564 (526)
+TotalTime  = 01:49
+TransRate  = 4.20 MB/s
+FileRate   = 14.3 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0) at 2022/03/17 14:43:20
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:43:42
+<Source>  C:\Intel\
+<DestDir> C:\aat\za 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144342-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.64 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:43:42
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:43:45
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\za 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144345-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 18.5 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:43:45
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:43:53
+<Source>  C:\Intel\
+<DestDir> C:\aat\za asd 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144353-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.66 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:43:53
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:43:56
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\za asd 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144356-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:43:56
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:45:04
+<Source>  C:\Intel\
+<DestDir> C:\aat\a asd 6 asd 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144504-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.28 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:45:05
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:46:00
+<Source>  C:\Intel\
+<DestDir> C:\aat\a asd 6 asd 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144600-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.66 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:46:00
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:46:18
+<Source>  C:\Intel\
+<DestDir> C:\aat\z a 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144618-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 0.66 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:46:18
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:46:21
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\z a 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144621-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:46:21
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:46:31
+<Source>  C:\Intel\
+<DestDir> C:\aat\z a 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144631-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.28 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:46:31
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:47:31
+<Source>  C:\Intel\
+<DestDir> C:\aat\z a 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144731-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.64 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:47:31
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:47:33
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\z a 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144733-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:47:33
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:47:40
+<Source>  C:\Intel\
+<DestDir> C:\aat\z a 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144740-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 1.37 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:47:40
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:47:43
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\z a 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144743-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 6.36 MB/s
+FileRate   = 32.3 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:47:43
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:48:04
+<Source>  C:\Intel\
+<DestDir> C:\aat\z a 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144804-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.66 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:48:04
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:48:07
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\z a 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144807-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:48:07
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:48:20
+<Source>  C:\Intel\
+<DestDir> C:\aat\aa 17-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144820-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 1.28 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:48:20
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/17 14:48:23
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\aa 17-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220317-144823-0.log
+-------------------------------------------------
+
+TotalRead  = 0.6 MiB
+TotalWrite = 0.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 19.1 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/17 14:48:23
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/25 15:50:53
+<Source>  C:\asd\
+<DestDir> C:\aat\z 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155053-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 15:50:53
+
+=================================================
+FastCopy(ver4.1.1 (NoUI)) start at 2022/03/25 15:50:57
+<Source>  C:\asd\
+<DestDir> C:\aat\z 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155057-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 15:50:57
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 15:51:55
+<Source>  C:\backupo\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155155-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 3,040 MiB
+TotalWrite = 2,921 MiB
+TotalFiles = 0 (2)
+TotalTime  = 13.2 sec
+TransRate  = 231.2 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 2 / ErrDirs : 0) at 2022/03/25 15:52:09
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 15:54:48
+<Source>  C:\backupo\
+<DestDir> C:\aat\z 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155448-0.log
+-------------------------------------------------
+SetEndOfFile(Espaço insuficiente no disco.112) : C:\aat\z 25-03-22 MTS\backupo\assets-21-03-22.zip
+
+TotalRead  = 289 MiB
+TotalWrite = 162 MiB
+TotalFiles = 1 (1)
+TotalTime  = 2.7 sec
+TransRate  = 63.7 MB/s
+FileRate   = 0.37 files/s
+
+Result : (ErrFiles : 1 / ErrDirs : 0) at 2022/03/25 15:54:51
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 15:56:49
+<Source>  C:\asd\
+<DestDir> C:\aat\2 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155649-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (1)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 15:56:49
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 15:57:08
+<Source>  C:\asd\
+<DestDir> C:\aat\2 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-155708-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 15:57:08
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:01:21
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160121-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (1)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:01:21
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:01:43
+<Source>  C:\asd\
+<DestDir> C:\aat\testing xd 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160143-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:01:43
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:02:22
+<Source>  C:\asd\
+<DestDir> C:\aat\testeeee 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160222-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:02:22
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:02:46
+<Source>  C:\asd\
+<DestDir> C:\aat\ag vai 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160246-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:02:46
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:03:17
+<Source>  C:\asd\
+<DestDir> C:\aat\agrrr vai 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160317-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:03:17
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:03:19
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agrrr vai 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160319-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 23.8 MB/s
+FileRate   = 48.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:03:19
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:04:59
+<Source>  C:\asd\
+<DestDir> C:\aat\agr vai 2 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160459-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:04:59
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:05:02
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agr vai 2 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160502-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:05:02
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:06:34
+<Source>  C:\asd\
+<DestDir> C:\aat\agrrvai3 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160634-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:06:34
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:06:37
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agrrvai3 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160637-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:06:37
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:08:18
+<Source>  C:\asd\
+<DestDir> C:\aat\agrvai5 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160818-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:08:18
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:08:20
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agrvai5 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160820-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:08:20
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:08:47
+<Source>  C:\asd\
+<DestDir> C:\aat\agrvai55555 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160847-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:08:47
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:08:50
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agrvai55555 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160850-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 92.3 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:08:50
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:09:19
+<Source>  C:\asd\
+<DestDir> C:\aat\agrvai6666 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160919-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:09:19
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:09:22
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\agrvai6666 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-160922-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 92.3 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:09:22
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:11:32
+<Source>  C:\asd\
+<DestDir> C:\aat\teste666669 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161132-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:11:32
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:11:35
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\teste666669 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161135-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 23.8 MB/s
+FileRate   = 48.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:11:35
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:07
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161407-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:07
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:09
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161409-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 92.3 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:09
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:17
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161417-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:17
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:20
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161420-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:20
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:25
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161425-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:25
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:28
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161428-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 46.2 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:28
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:52
+<Source>  C:\asd\
+<DestDir> C:\aat\aa 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161452-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:52
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:14:55
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\aa 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161455-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:14:55
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:00
+<Source>  C:\asd\
+<DestDir> C:\aat\aa 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161500-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:00
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:03
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\aa 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161503-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:03
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:31
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161531-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:31
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:34
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161534-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:34
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:39
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161539-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:39
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:42
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161542-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 31.4 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:42
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:53
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161553-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:53
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:15:56
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161556-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 98.5 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:15:56
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:16:06
+<Source>  C:\asd\
+<DestDir> C:\aat\a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161606-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:16:06
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:16:09
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-161609-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.3 sec
+TransRate  = 5.26 MB/s
+FileRate   = 10.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:16:09
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:21:10
+<Source>  C:\asd\
+<DestDir> C:\aat\teste4444 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162110-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:21:10
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:21:13
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\teste4444 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162113-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:21:13
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:23:02
+<Source>  C:\asd\
+<DestDir> C:\aat\teste44442 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162302-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:23:02
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:23:05
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\teste44442 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162305-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 47.6 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:23:05
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:25:36
+<Source>  C:\asd\
+<DestDir> C:\aat\u 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162536-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:25:36
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:25:39
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\u 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162539-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 23.4 MB/s
+FileRate   = 47.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:25:39
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:28:13
+<Source>  C:\asd\
+<DestDir> C:\aat\dsaff a 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162813-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:28:13
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:28:16
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\dsaff a 25-03-22 MTS\LogsBackup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-162816-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 98.5 MB/s
+FileRate   = 200.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:28:16
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:30:16
+<Source>  C:\asd\
+<DestDir> C:\aat\x 25-03-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-163016-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:30:16
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/25 16:30:18
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\x 25-03-22 MTS\Backup[Logs]\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220325-163018-0.log
+-------------------------------------------------
+
+TotalRead  = 1.4 MiB
+TotalWrite = 1.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 46.2 MB/s
+FileRate   = 93.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/25 16:30:18
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/29 15:40:45
+<Source>  C:\asd\
+<DestDir> C:\aat\bk valdineis junior 29-03-22 SP\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220329-154045-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/29 15:40:45
+
+=================================================
+FastCopy(ver4.1.3 (NoUI)) start at 2022/03/29 15:40:49
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\bk valdineis junior 29-03-22 SP\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220329-154049-0.log
+-------------------------------------------------
+
+TotalRead  = 1.6 MiB
+TotalWrite = 1.6 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 27.5 MB/s
+FileRate   = 48.4 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/03/29 15:40:49
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/03/31 10:26:57
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-102657-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 10:26:57
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/03/31 11:16:09
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-111609-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 11:16:09
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/03/31 11:19:36
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-111936-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 11:19:36
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 15:30:00
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-153000-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 15:30:00
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 15:32:17
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-153217-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 15:32:17
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 16:15:45
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-161545-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 16:15:45
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 17:02:38
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-170238-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 17:02:38
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 17:03:01
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-170301-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 17:03:01
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 17:05:01
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-170501-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 17:05:01
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/03/31 17:06:13
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220331-170613-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/03/31 17:06:13
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/04/01 11:38:07
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220401-113807-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/04/01 11:38:07
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/04/01 11:38:20
+<Source>  C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\new-codeinjection\assets\scripts\fastcopy\64bits\Log\20220401-113820-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\new-codeinjection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/04/01 11:38:20
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/03 16:10:21
+<Source>  C:\Users\matmc\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\matmc\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220403-161021-0.log
+-------------------------------------------------
+FindFirstFileEx(The system cannot find the path specified.3) : C:\Users\matmc\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/04/03 16:10:21
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/06 17:59:46
+<Source>  C:\asd\
+<DestDir> C:\aat\qq 06-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\codeinjection\assets\scripts\fastcopy\64bits\Log\20220406-175946-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/06 17:59:46
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/06 18:00:01
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\qq 06-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\codeinjection\assets\scripts\fastcopy\64bits\Log\20220406-180001-0.log
+-------------------------------------------------
+
+TotalRead  = 2.4 MiB
+TotalWrite = 2.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 19.9 MB/s
+FileRate   = 24.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/06 18:00:01
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/04/07 11:59:49
+<Source>  C:\asd\
+<DestDir> C:\aat\asdasd 07-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\codeinjection\arquivos\scripts\fastcopy\64bits\Log\20220407-115949-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/07 11:59:49
+
+=================================================
+FastCopy(ver4.1.4 (NoUI)) start at 2022/04/07 11:59:52
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\asdasd 07-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\codeinjection\arquivos\scripts\fastcopy\64bits\Log\20220407-115952-0.log
+-------------------------------------------------
+
+TotalRead  = 2.4 MiB
+TotalWrite = 2.4 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 26.9 MB/s
+FileRate   = 31.9 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/07 11:59:52
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/09 08:19:47
+<Source>  C:\asd\
+<DestDir> C:\aat\asdad 09-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220409-081947-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/09 08:19:47
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/09 08:19:51
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\asdad 09-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220409-081951-0.log
+-------------------------------------------------
+
+TotalRead  = 2.9 MiB
+TotalWrite = 2.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.2 sec
+TransRate  = 19.3 MB/s
+FileRate   = 19.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/09 08:19:51
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/12 16:30:43
+<Source>  C:\asd\
+<DestDir> C:\aat\123 12-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220412-163043-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/12 16:30:43
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/12 16:30:47
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\123 12-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220412-163047-0.log
+-------------------------------------------------
+
+TotalRead  = 3.3 MiB
+TotalWrite = 3.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.4 sec
+TransRate  = 8.72 MB/s
+FileRate   = 7.67 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/12 16:30:47
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 09:53:12
+<Source>  C:\asd\
+<DestDir> C:\aat\tes 13-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-095312-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/13 09:53:12
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 09:53:15
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\tes 13-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-095315-0.log
+-------------------------------------------------
+
+TotalRead  = 3.3 MiB
+TotalWrite = 3.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 44.1 MB/s
+FileRate   = 38.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/13 09:53:15
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 16:14:15
+<Source>  C:\asd\
+<DestDir> C:\aat\xds 13-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-161415-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/13 16:14:15
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 16:14:21
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\aat\xds 13-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-161421-0.log
+-------------------------------------------------
+
+TotalRead  = 3.3 MiB
+TotalWrite = 3.3 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 28.1 MB/s
+FileRate   = 24.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/13 16:14:21
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 16:35:43
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-163543-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/04/13 16:35:43
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/13 16:35:57
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220413-163557-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/04/13 16:35:57
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/18 10:18:59
+<Source>  C:\PerfLogs\
+<DestDir> C:\asd\22 18-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220418-101859-0.log
+-------------------------------------------------
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (2)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/18 10:18:59
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/18 10:19:11
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\asd\22 18-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220418-101911-0.log
+-------------------------------------------------
+
+TotalRead  = 3.5 MiB
+TotalWrite = 3.5 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.2 sec
+TransRate  = 23.8 MB/s
+FileRate   = 19.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/18 10:19:11
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/30 08:09:27
+<Source>  C:\aat\
+<DestDir> C:\Users\Mateus\Documents\sda 30-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-080927-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (54)
+TotalTime  = 1.0 sec
+TransRate  = 31.0 MB/s
+FileRate   = 118.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:09:28
+
+=================================================
+FastCopy(ver4.1.4 (Admin) (NoUI)) start at 2022/04/30 08:09:30
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Mateus\Documents\sda 30-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-080930-0.log
+-------------------------------------------------
+
+TotalRead  = 3.9 MiB
+TotalWrite = 3.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 33.0 MB/s
+FileRate   = 24.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:09:30
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 08:36:43
+<Source>  C:\aat\
+<DestDir> C:\Users\Mateus\Documents\fasdfasdf 30-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-083643-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (54)
+TotalTime  = 0.4 sec
+TransRate  = 72.6 MB/s
+FileRate   = 277.6 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:36:44
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 08:36:46
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Mateus\Documents\fasdfasdf 30-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-083646-0.log
+-------------------------------------------------
+
+TotalRead  = 3.9 MiB
+TotalWrite = 3.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 87.9 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:36:46
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 08:36:52
+<Source>  C:\aat\
+<DestDir> C:\Users\Mateus\Documents\fasdfasdf 30-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-083652-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (0)
+TotalTime  = 0.4 sec
+TransRate  = 75.6 MB/s
+FileRate   = 289.0 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:36:53
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 08:36:55
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Mateus\Documents\fasdfasdf 30-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-083655-0.log
+-------------------------------------------------
+
+TotalRead  = 3.9 MiB
+TotalWrite = 3.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 133.3 MB/s
+FileRate   = 96.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 08:36:55
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 09:14:49
+<Source>  C:\aat\
+<DestDir> C:\Users\Mateus\Documents\asdfafs 30-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-091449-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (54)
+TotalTime  = 0.7 sec
+TransRate  = 40.2 MB/s
+FileRate   = 153.7 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 09:14:50
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 09:14:57
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Mateus\Documents\asdfafs 30-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-091457-0.log
+-------------------------------------------------
+
+TotalRead  = 3.9 MiB
+TotalWrite = 3.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.1 sec
+TransRate  = 53.0 MB/s
+FileRate   = 38.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 09:14:57
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 09:15:05
+<Source>  C:\aat\
+<DestDir> C:\Users\Mateus\Documents\asdfafsasdf 30-04-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-091505-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (54)
+TotalTime  = 0.8 sec
+TransRate  = 37.1 MB/s
+FileRate   = 141.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 09:15:05
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/04/30 09:15:13
+<Source>  "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Mateus\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Mateus\Documents\asdfafsasdf 30-04-22 MTS\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220430-091513-0.log
+-------------------------------------------------
+
+TotalRead  = 3.9 MiB
+TotalWrite = 3.9 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 87.9 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/04/30 09:15:13
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/09 10:25:00
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220509-102500-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/05/09 10:25:00
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/09 10:25:09
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220509-102509-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/05/09 10:25:09
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/09 11:43:02
+<Source>  C:\aat\
+<DestDir> C:\asd\teste 09-05-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220509-114302-0.log
+-------------------------------------------------
+
+TotalRead  = 28 MiB
+TotalWrite = 28 MiB
+TotalFiles = 113 (54)
+TotalTime  = 0.7 sec
+TransRate  = 44.0 MB/s
+FileRate   = 168.2 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/05/09 11:43:02
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/09 15:08:17
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220509-150817-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/05/09 15:08:17
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/09 15:17:35
+<Source>  C:\AiO-Files\; "C:\Program Files\"; C:\developer\; C:\euphoria\; C:\Users\
+<DestDir> C:\Users\Mateus\Documents\Backup Teste 09-05-22 MTS\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220509-151735-0.log
+-------------------------------------------------
+ Aborted by User
+
+TotalRead  = 76 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 18.1 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2022/05/09 15:17:54
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/14 12:22:29
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220514-122229-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/05/14 12:22:29
+
+=================================================
+FastCopy(ver4.1.5 (Admin) (NoUI)) start at 2022/05/14 12:22:48
+<Source>  C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+<DestDir> C:\Windows\System32\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Mateus\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20220514-122248-0.log
+-------------------------------------------------
+FindFirstFileEx(O sistema não pode encontrar o caminho especificado.3) : C:\Users\Mateus\Desktop\code-injection\assets\images\logo.bmp
+
+TotalRead  = 0.0 MiB
+TotalWrite = 0.0 MiB
+TotalFiles = 0 (0)
+TotalTime  = 0.0 sec
+TransRate  = 0.00 MB/s
+FileRate   = 0.00 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 1) at 2022/05/14 12:22:48
+
+=================================================
+FastCopy(ver4.1.5 (NoUI)) start at 2023/07/06 11:39:39
+<Source>  C:\3uTools\; C:\Boot\
+<DestDir> C:\Users\Matt\Documents\Teste 06-07-23 CI\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Matt\Downloads\code-injection\assets\scripts\fastcopy\64bits\Log\20230706-113939-0.log
+-------------------------------------------------
+
+TotalRead  = 7,319 MiB
+TotalWrite = 7,319 MiB
+TotalFiles = 30 (17)
+TotalTime  = 47.2 sec
+TransRate  = 162.7 MB/s
+FileRate   = 0.64 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2023/07/06 11:40:26
+
+=================================================
+FastCopy(ver5.2.2 (NoUI)) start at 2023/07/06 11:40:30
+<Source>  "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Matt\Documents\Teste 06-07-23 CI\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Matt\Downloads\code-injection\assets\scripts\fastcopy\64bits\Log\20230706-114030-0.log
+-------------------------------------------------
+
+TotalRead  = 3.7 MiB
+TotalWrite = 3.7 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.2 sec
+TransRate  = 17.6 MB/s
+FileRate   = 13.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2023/07/06 11:40:31
+
+=================================================
+FastCopy(ver5.2.2 (NoUI)) start at 2023/07/06 14:13:51
+<Source>  C:\Boot\; C:\Config.Msi\
+<DestDir> C:\Users\Matt\Desktop\BACKUP EXEMPLO\CLIENTE X 06-07-23 CI\
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Matt\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20230706-141351-0.log
+-------------------------------------------------
+
+TotalRead  = 0.7 MiB
+TotalWrite = 0.7 MiB
+TotalFiles = 3 (3)
+TotalTime  = 0.0 sec
+TransRate  = 44.3 MB/s
+FileRate   = 187.5 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2023/07/06 14:13:51
+
+=================================================
+FastCopy(ver5.2.2 (NoUI)) start at 2023/07/06 14:13:55
+<Source>  "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"; "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\History"; "C:\Users\Matt\AppData\Local\Google\Chrome\User Data\Default\Visited Links"
+<DestDir> C:\Users\Matt\Desktop\BACKUP EXEMPLO\CLIENTE X 06-07-23 CI\[Logs]Backup\Google-Chorme-Backup
+<Command> Copy (Overwrite)
+<FileLog> C:\Users\Matt\Desktop\code-injection\assets\scripts\fastcopy\64bits\Log\20230706-141355-0.log
+-------------------------------------------------
+
+TotalRead  = 3.7 MiB
+TotalWrite = 3.7 MiB
+TotalFiles = 3 (0)
+TotalTime  = 0.0 sec
+TransRate  = 81.7 MB/s
+FileRate   = 63.8 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0) at 2023/07/06 14:13:55
+

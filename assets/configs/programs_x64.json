@@ -1,0 +1,102 @@
+{
+"adobe":{
+"nome":"Adobe Acrobat Reader",
+"icone":"acrobat-reader.png",
+"comando":"Adobe.exe /sAll"
+},
+"anydesk":{
+"nome":"AnyDesk",
+"icone":"anydesk.png",
+"comando":"AnyDesk.exe --install \"C:\\Program Files\\AnyDesk\" --start-with-win --create-shortcuts --create-desktop-icon --silent"
+},
+"teamviewer":{
+"nome":"TeamViewer",
+"icone":"teamviewer.png",
+"comando":"TeamViewer.exe /S"
+},
+"skype":{
+"nome":"Skype",
+"icone":"skype.png",
+"comando":"Skype.exe /VERYSILENT /NORESTART /SUPPRESSMSGBOXES /NOLAUNCH /DL=1"
+},
+"chorme":{
+"nome":"Google Chorme",
+"icone":"google_chorme.png",
+"comando":"GoogleChorme.exe /silent /install"
+},
+"firefox":{
+"nome":"Mozilla Firefox",
+"icone":"firefox.png",
+"comando":"Firefox64bits.exe /s"
+},
+"java64":{
+"nome":"Java x64",
+"icone":"java.png",
+"comando":"Java64bits.exe /s"
+},
+"java32":{
+"nome":"Java x32",
+"icone":"java.png",
+"comando":"Java32bits.exe /s"
+},
+"ie":{
+"nome":"Internet Explorer",
+"icone":"internet-explorer.png",
+"comando":"ie11-64bits.exe /passive /norestart"
+},
+"winrar":{
+"nome":"Winrar",
+"icone":"winrar.png",
+"comando":"Winrar64bits.exe /s"
+},
+"7zip":{
+"nome":"7Zip",
+"icone":"7zip.png",
+"comando":"7zip-64bits.exe /S"
+},
+"vlc":{
+"nome":"VLC",
+"icone":"vlc.png",
+"comando":"VLC-64bits.exe /S /Y"
+},
+"mediaplayer":{
+"nome":"Media Player Classic",
+"icone":"media-player.png",
+"comando":"MediaPlayerClassic64bits.exe /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+},
+"notepad":{
+"nome":"Notepad ++",
+"icone":"notepad.png",
+"comando":"notepad++.exe /S"
+},
+"crystaldisk":{
+"nome":"CrystalDisklnfo",
+"icone":"crystaldisk.png",
+"comando":"CrystalDiskInfo.exe /VERYSILENT /NORESTART"
+},
+"framework":{
+"nome":".NET Framework 4.8",
+"icone":"framework.png",
+"comando":"Framework4.8.exe /q /norestart"
+},
+"office2010":{
+"nome":"Office 2010",
+"icone":"office2010.png",
+"comando":"Office2010/setup.exe /adminfile instalador.MSP"
+},
+"office2013":{
+"nome":"Office 2013",
+"icone":"office2013.png",
+"comando":"Office2013/setup.exe /adminfile instalador.MSP"
+},
+"office2016":{
+"nome":"Office 2016",
+"icone":"office2013.png",
+"comando":"Office2016/office/setup64.exe"
+},
+"office2019":{
+"nome":"Office 2019",
+"icone":"office2019.png",
+"comando":"Office2016/office/Setup64.exe"
+}
+}

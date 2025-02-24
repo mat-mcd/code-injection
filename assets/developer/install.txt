@@ -1,0 +1,4 @@
+database.db
+limpar tabela logs
+critpografa dados do cliente (client_id)
+criar usuarios

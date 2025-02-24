@@ -1,0 +1,340 @@
+{
+"ativar_windows": {
+"name": "Ativar Windows",
+"description": "Ativa Windows permanentemente",
+"requirements": ["Windows 7 ou superior", "Internet"],
+"icon": "/img/icones/function/ativar-windows.png",
+"comando": [
+"assets\\scripts\\power-run\\PowerRun_x32.exe /SW:0 assets\\scripts\\windows-office.cmd"
+]
+},
+"ativar_office": {
+"name": "Ativar Office",
+"description": "Ativa o Pacote Office permanentemente",
+"requirements": ["2010", "2013", "2016", "2019", "Internet"],
+"icon": "/img/icones/function/ativar-office.png",
+"comando": [
+"assets\\scripts\\power-run\\PowerRun_x32.exe /SW:0 assets\\scripts\\windows-office.cmd"
+]
+},
+"drivers": {
+"name": "Instalar/Atualizar Drivers",
+"description": "Instala & atualiza todos os drives",
+"requirements": [""],
+"icon": "/img/icones/function/drivers.png",
+"comando": [
+"assets\\scripts\\power-run\\PowerRun_x32.exe \"assets\\drivers\\SDI64-drv.exe\" -autoinstall -autoclose -keeptempfiles -license:1 -norestorepnt:1 -lang:Brazilian -nostop -index_dir:assets\\drivers\\indexes\\SDI -data_dir:assets\\drivers\\tools\\SDI -log_dir:assets\\drivers\\logs -output_dir:assets\\drivers\\indexes\\SDI\\txt -drp_dir:assets\\drivers\\drivers -extractdir:C:\\MeusDrivers"
+]
+},
+"icones": {
+"name": "Ícones na Aréa de Trabalho",
+"description": "Mostra os ícones padrão na Aréa de Trabalho                            \r(Meu Computador, Lixeira, Rede, Painel de Controle, Usuário)",
+"requirements": [],
+"icon": "/img/icones/function/icones.png",
+"comando": [
+"taskkill /f /im explorer.exe",	
+"assets\\scripts\\sdeskicon\\sdeskicon_x32bits.exe /S C U N R P",
+"assets\\scripts\\rexplorer\\rexplorer_x32bits.exe"
+]
+},
+"otimizar": {
+"name": "Otimizar o Windows",
+"description": "Otimizar e melhorar o desempenho do sistema operacional",
+"requirements": [],
+"icon": "/img/icones/function/otimizar.png",
+"comando": [
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Power\" /V HiberbootEnabled /T REG_dWORD /D 1 /F",
+"REG ADD \"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Serialize\" /v StartupDelayInMSec /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\" /v \"WaitToKillServiceTimeout\" /t REG_SZ /d \"2000\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management\" /v ClearPageFileAtShutdown /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\NlaSvc\\Parameters\\Internet\" /v EnableActiveProbing /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\System\" /v \"EnableActivityFeed\" /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Error Reporting\" /v \"Disabled\" /d 1 /t REG_DWORD /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\PCHealth\\ErrorReporting\" /v \"DoReport\" /d 0 /t REG_DWORD /f",
+"REG ADD \"HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\DWM\" /v \"DisallowAnimations\" /d 1 /t REG_dword /f",
+"REG ADD \"HKEY_CURRENT_USER\\Control Panel\\Desktop\\WindowMetrics\" /v \"MinAnimate\" /d 0 /t REG_SZ /f",
+"REG ADD \"HKEY_CURRENT_USER\\Control Panel\\Desktop\" /v \"MenuShowDelay\" /t REG_SZ /d \"1\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection\" /v \"DoNotShowFeedbackNotifications\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKCU\\SOFTWARE\\Microsoft\\Siuf\\Rules\" /v \"NumberOfSIUFInPeriod\" /t REG_DWORD /d 0 /f",
+"REG ADD \"HKCU\\SOFTWARE\\Policies\\Microsoft\\Assistance\\Client\\1.0\" /v \"NoExplicitFeedback\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU\" /v \"AutoInstallMinorUpdates\" /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU\" /v \"AUOptions\" /t REG_DWORD /d %AutoUpdateN% /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU\" /v \"NoAutoUpdate\" /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\Auto Update\" /v \"AUOptions\" /t REG_DWORD /d %AutoUpdateN% /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows Defender\" /v \"DisableAntiSpyware\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows Defender\" /v \"DisableRoutinelyTakingAction\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows Defender\\Policy Manager\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection\" /v \"DisableRealtimeMonitoring\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKCU\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer\" /v \"DisableNotificationCenter\" /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\" /v \"EnableFirstLogonAnimation\" /t REG_DWORD /d \"0\" /f 1",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SafeBoot\\Network\\MSIServer\" /v \"\" /t REG_SZ /d \"Service\" /f 1",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SafeBoot\\Minimal\\MSIServer\" /v \"\" /t REG_SZ /d \"Service\" /f 1",
+"REG ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Search\" /v \"SearchboxTaskbarMode\" /t REG_DWORD /d \"0\" /f 1",
+"REG ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\" /v \"ShowTaskViewButton\" /t REG_DWORD /d \"0\" /f",
+"REG ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\People\" /v \"PeopleBand\" /t REG_DWORD /d \"0\" /f",
+"REG ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\" /v \"1806\" /t \"REG_DWORD\" /d \"00000000\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\" /v \"1806\" /t \"REG_DWORD\" /d \"00000000\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Security\" /v \"DisableSecuritySettingsCheck\" /t \"REG_DWORD\" /d \"00000001\" /f",
+"sc stop \"WSearch\" & sc config \"WSearch\" start=disabled",
+"sc stop \"wuauserv\" & sc config \"wuauserv\" start=disabled",
+"sc stop \"SysMain\" & sc config \"SysMain\" start=disabled",
+"sc stop \"BITS\" & sc config \"BITS\" start=disabled",
+"sc stop \"MapsBroker\" & sc config \"MapsBroker\" start=disabled",
+"sc stop \"DoSvc\" & sc config \"DoSvc\" start=disabled",
+"sc stop \"DiagTrack\" & sc config \"DiagTrack\" start=disabled",
+"sc stop \"dmwappushservice\" & sc config \"dmwappushservice\" start=disabled",
+"SC config \"CscService\" start= disabled",
+"SC config \"CertPropSvc\" start= disabled",
+"SC config \"wscsvc\" start= demand",
+"SC config \"SystemEventsBroker\" start= demand",
+"SC config \"tiledatamodelsvc\" start= demand",
+"SC config \"WerSvc\" start= demand",
+"schtasks /Change /TN \"\\Microsoft\\Windows\\WindowsUpdate\\Automatic App Update\" /DISABLE",
+"schtasks /Change /TN \"Microsoft\\Windows\\Application Experience\\Microsoft Compatibility Appraiser\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Application Experience\\ProgramDataUpdater\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Application Experience\\StartupAppTask\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\Consolidator\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\KernelCeipTask\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\UsbCeip\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\Uploader\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Windows\\Shell\\FamilySafetyUpload\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Office\\OfficeTelemetryAgentLogOn\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Office\\OfficeTelemetryAgentFallBack\" /Disable",
+"schtasks /Change /TN \"Microsoft\\Office\\Office 15 Subscription Heartbeat\" /Disable",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Setup\\EOSNotify\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Setup\\EOSNotify2\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Setup\\EOSNotify\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Setup\\EOSNotify2\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\End Of Support\\Notify1\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\End Of Support\\Notify2\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\End Of Support\\Notify1\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\End Of Support\\Notify2\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\SetupSQMTask\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\BthSQM\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\Consolidator\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\KernelCeipTask\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\TelTask\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\UsbCeip\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Application Experience\\AitAgent\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Application Experience\\Microsoft Compatibility Appraiser\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\Application Experience\\ProgramDataUpdater\"",
+"schtasks /Change /DISABLE /TN \"Microsoft\\Windows\\PerfTrack\\BackgroundConfigSurveyor\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\SetupSQMTask\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\BthSQM\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\Consolidator\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\KernelCeipTask\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\TelTask\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\UsbCeip\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Application Experience\\Microsoft Compatibility Appraiser\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Application Experience\\ProgramDataUpdater\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\Application Experience\\AitAgent\"",
+"schtasks /Delete /F /TN \"Microsoft\\Windows\\PerfTrack\\BackgroundConfigSurveyor\"",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsStore\" /v AutoDownload /t REG_DWORD /d 2 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CloudContent\" /v DisableWindowsConsumerFeatures /t REG_DWORD /d 1 /f"
+]
+},
+"prop_win": {
+"name": "Configurar propriedades do Computador",
+"description": "Configura as propriedades do computador                                         \r(Logo, Nome da Empresa, Horário de atendimento, site e contato)",
+"requirements": [],
+"icon": "/img/icones/function/prop_win.png",
+"comando": [
+"assets/scripts/fastcopy/64bits/FastCopy.exe /cmd=force_copy /log /filelog /no_ui /balloon=FALSE /error_stop=FALSE /auto_close /force_close \"assets\\images\\logo.bmp\" /to=\"C:\\Windows\\System32\\\"",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OEMInformation\" /v Manufacturer /t REG_SZ /d \"HC INFORMATICA - ASSISTENCIA TECNICA\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OEMInformation\" /v Logo /t REG_SZ /d \"\\windows\\System32\\logo.bmp\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OEMInformation\" /v SupportPhone /t REG_SZ /d \"(63) 99234-9076 / (63) 3414-7089\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OEMInformation\" /v SupportURL /t REG_SZ /d \"http://hcinformatica.info/\" /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OEMInformation\" /v SupportHours /t REG_SZ /d \"seg-sex: 8:00hs - 18:00hs/sab: 08:00 - 13:00\" /f"
+]
+},
+"chavesrun": {
+"name": "Remover programas da inicialização",
+"description": "",
+"requirements": [],
+"icon": "/img/icones/function/chavesrun.png",
+"comando": [
+"REG DELETE HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce /f",
+"REG DELETE HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /f",
+"REG DELETE HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\RunOnce /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunServicesOnce /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunServices /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnceEx /f",
+"REG DELETE HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Skype\\Phone\" /v \"DisableVersionCheck\" /t REG_DWORD /d 1 /f"
+]
+},
+"updatewin": {
+"name": "Desabilitar atualizações automaticas",
+"description": "Parar definitivamente as atualizações do Windows",
+"requirements": [],
+"icon": "/img/icones/function/updatewin.png",
+"comando": [
+"sc stop wuauserv",
+"sc config wuauserv start=disabled",
+"assets/programs/stopupdates10setup.exe /silent",
+"\"C:\\Program Files (x86)\\StopUpdates10\\StopUpdates10.exe\" /disable"
+]
+},
+"menuf8": {
+"name": "Ativar BootMenu F8",
+"description": "Ativar BootMenu Legacy F8",
+"requirements": ["Windows 8 ou superior"],
+"icon": "/img/icones/function/menuf8.png",
+"comando": [
+"bcdedit /set {default} bootmenupolicy legacy"
+]
+},
+"variavel": {
+"name": "Setar Variáveis de Ambientes",
+"description": "Cria variáveis de ambiente que servem como atalhos\r Exemplo:  %programas%  %impressoras%   %sistema%",
+"requirements": [],
+"icon": "/img/icones/function/variavel.png",
+"comando": [
+"setx -m programas \"appwiz.cpl\"",
+"setx -m ie \"inetcpl.cpl\"",
+"setx -m impressoras \"control printers\"",
+"setx -m hc \"chorme.exe hcinformatica.info -incognito\""
+]
+},
+"apps_win10": {
+"name": "Desinstalar Apps da Barra",
+"description": "Desinstalar aplicativos desnecessários",
+"requirements": ["Windows 10 ou superior"],
+"icon": "/img/icones/function/apps_win10.png",
+"comando": [
+"assets\\scripts\\power-run\\PowerRun_x32.exe Powershell.exe -executionpolicy remotesigned -File -ErrorAction SilentlyContinue \"assets\\scripts\\remove-default-apps.ps1\""
+]
+},
+"onedrive": {
+"name": "Desinstalar OneDrive",
+"description": "",
+"requirements": ["Windows 10 ou superior"],
+"icon": "/img/icones/function/onedrive.png",
+"comando": [
+"Powershell.exe -executionpolicy remotesigned -File \"assets\\scripts\\remove-onedrive.ps1\""
+]
+},
+"cortana": {
+"name": "Desativar Cortana",
+"description": "",
+"requirements": ["Windows 10 ou superior"],
+"icon": "/img/icones/function/cortana.png",
+"comando": [
+"taskkill /F /IM SearchUI.exe",
+"rename \"C:\\Windows\\SystemApps\\Microsoft.Windows.Cortana_cw5n1h2txyewy\" \"C:\\Windows\\SystemApps\\Microsoft.Windows.Cortana_cw5n1h2txyewy.bak\"",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Search\" /v \"AllowCortana\" /t REG_DWORD /d 0 /f",
+"REG ADD \"HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Search\" /v \"SearchboxTaskbarMode\" /t REG_DWORD /d 0 /f"
+]
+},
+"telemetria": {
+"name": "Desativar Telemetria de Dados",
+"description": "",
+"requirements": [],
+"icon": "/img/icones/function/telemetria.png",
+"comando": [
+"sc stop DiagTrack",
+"sc config DiagTrack start= disabled",
+"sc stop dmwappushservice",
+"sc config dmwappushservice start= disabled",
+"REG ADD HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\WMI\\AutoLogger\\AutoLogger-Diagtrack-Listener\\ /v Start /t REG_DWORD /d 0 /f",
+"REG ADD HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection\\ /v AllowTelemetry /t REG_DWORD /d 0 /f",
+"REG ADD HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsSelfHost\\UI\\Visibility\\ /v DiagnosticErrorText /t REG_DWORD /d 0 /f",
+"REG ADD HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsSelfHost\\UI\\Strings\\ /v DiagnosticErrorText /t REG_SZ /d \"\" /f",
+"REG ADD HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsSelfHost\\UI\\Strings\\ /v DiagnosticLinkText /t REG_SZ /d \"\" /f"
+]
+},
+"uac": {
+"name": "Desativar UAC",
+"description": "Desativar UAC",
+"requirements": [],
+"icon": "/img/icones/function/uac.png",
+"comando": [
+"REG ADD \"HKEY_CURRENT_USER\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer\" /v DisableNotificationCenter /t REG_DWORD /d 1 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\" /v EnableLUA /t REG_DWORD /d 0 /f"
+]
+},
+"energia": {
+"name": "Configurar Opções de Energia",
+"description": "Otimiza as opções de energia o desativa a hibernação",
+"requirements": [],
+"icon": "/img/icones/function/energia.png",
+"comando": [
+"Powercfg -s 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c",
+"Powercfg -x -monitor-timeout-dc 0",
+"Powercfg -x -monitor-timeout-ac 0",
+"powercfg -x -disk-timeout-dc 0",
+"powercfg -x -disk-timeout-ac 0",
+"powercfg -x -standby-timeout-dc 0",
+"powercfg -x -standby-timeout-ac 0",
+"powercfg -x -hibernate-timeout-dc 0",
+"powercfg -x -hibernate-timeout-ac 0"
+]
+},
+"ocultarcentral": {
+"name": "Ocultar Central de Notificações",
+"description": "",
+"requirements": [],
+"icon": "/img/icones/function/ocultarcentral.png",
+"comando": [
+"REG ADD \"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\" /f /v HideSCAHealth /t REG_SZ /d 1"
+]
+},
+"temp": {
+"name": "Apagar arquivos Temporários",
+"description": "Apagar todos os arquivos temporários da máquina",
+"requirements": [],
+"icon": "/img/icones/function/temp.png",
+"comando": [
+"taskkill /f /im explorer.exe",
+"DEL /f /s /q %temp%\\",
+"DEL /F /S /Q /A %LocalAppData%\\Microsoft\\Windows\\Explorer\thumbcache_*.db",
+"DEL /f /s /q %systemdrive%\recycled\\*.*",
+"DEL /f /s /q %systemdrive%\\$Recycle.Bin\\*.*",
+"DEL /f /s /q \"%userprofile%\\Local Settings\\Temporary Internet Files\\*.*\"",
+"DEL /f /s /q \"%userprofile%\\Local Settings\\Temp\\*.*\"",
+"assets\\scripts\\rexplorer\\rexplorer_x32bits.exe"
+]
+},
+"impressoras": {
+"name": "Resolver Problema Impressoras Rede",
+"description": "Desinstala atualizações e realiza configurações sobre a rede",
+"requirements": [],
+"icon": "/img/icones/function/impressoras.png",
+"comando": [
+"wusa /uninstall /kb:5006670 /norestart /quiet",
+"wusa /uninstall /kb:5005565 /norestart /quiet",
+"wusa /uninstall /kb:5005539 /norestart /quiet",
+"wusa /uninstall /kb:5007186 /norestart /quiet",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Printers\\PointAndPrint\" /v RestrictDriverInstallationToAdministrators /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Printers\\PointAndPrint\" /v UpdatePromptSettings /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Policies\\MicrosoftWindows NT\\Printers\\PointAndPrint\" /v NoWarningNoElevationOnInstall /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Printers\\PointAndPrint\" /v Restricted /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Print\" /v RpcAuthnLevelPrivacyEnabled /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\FeatureManagement\\Overrides\" /v 713073804 /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\FeatureManagement\\Overrides\" /v 1921033356 /t REG_DWORD /d 0 /f",
+"REG ADD \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\FeatureManagement\\Overrides\" /v 3598754956 /t REG_DWORD /d 0 /f"
+]
+},
+"cadeia": {
+"name": "Instalar Cadeia de Certificado Brasileira",
+"description": "",
+"requirements": [],
+"icon": "/img/icones/function/cadeia.png",
+"comando": [
+"assets/scripts/certificado/cadeia.exe /s"
+]
+},
+"https_vencido": {
+"name": "Resolver Certificado HTTPS vencido",
+"description": "Resolve o problema de alguns sites e aplicativos que não funcionam\rcorretamente por falta de atualizar os certificados                            ",
+"requirements": ["Windows 7"],
+"icon": "/img/icones/function/https_vencido.png",
+"comando": [
+"certutil.exe -addstore root assets/scripts/certificado/isrgrootx1.der",
+"certutil.exe -addstore root assets/scripts/certificado/isrg-root-x2.der",
+"certutil.exe -addstore root assets/scripts/certificado/lets-encrypt-r3.der"
+]
+}
+}
