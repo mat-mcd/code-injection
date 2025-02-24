@@ -1,3 +1,5 @@
+Demonstração do aplicativo: https://www.youtube.com/watch?v=pb4ThljsXSc&ab_channel=Revoltz
+
 Antes de começar, certifique-se de que atendeu aos seguintes requisitos:
 
 - Python 3.10 ou superior
@@ -18,14 +20,16 @@ Siga estes passos para configurar o seu projeto localmente.
 
 3. Clone o repositório
    Clone o repositório do seu projeto para sua máquina local:
+   
    git clone https://github.com/mat-mcd/code-injection.git
+   
    cd code-injection
 
-4. Instale as dependências
+5. Instale as dependências
    Instale os pacotes Python necessários usando o arquivo requirements.txt:
    pip install -r requirements.txt
 
-5. Execute o projeto
+6. Execute o projeto
    Agora você pode rodar o projeto, por exemplo:
    python main.py
 
