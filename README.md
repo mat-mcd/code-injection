@@ -27,11 +27,14 @@ Siga estes passos para configurar o seu projeto localmente.
 
 5. Instale as dependências
    Instale os pacotes Python necessários usando o arquivo requirements.txt:
+   
    pip install -r requirements.txt
 
-6. Execute o projeto
+7. Execute o projeto
    Agora você pode rodar o projeto, por exemplo:
+   
    python main.py
+
 
 Depuração
 
