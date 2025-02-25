@@ -43,3 +43,5 @@ Você pode usar o pyflakes para verificar erros de sintaxe no arquivo main.py:
 pyflakes main.py
 
 Isso exibirá quaisquer problemas que precisem de atenção no código.
+
+Este projeto foi descontinuado e disponibilizado publicamente apenas para fins de estudo. Pode conter erros ou exigir correções antes de ser utilizado.
