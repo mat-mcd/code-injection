@@ -38,7 +38,7 @@ Siga estes passos para configurar o seu projeto localmente.
 
 Depuração
 
-Para depurar seu projeto, você pode usar o pyflakes para verificar erros de sintaxe no arquivo main.py:
+Você pode usar o pyflakes para verificar erros de sintaxe no arquivo main.py:
 
 pyflakes main.py
 
